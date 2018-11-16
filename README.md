@@ -6,7 +6,7 @@
  * @author    Hari Om Mishra <omswphp@gmail.com.com>
  * @copyright Copyright (c) 2017-2018
  * @license   Free License
- * @link      https://github.com/omsw/php-import-excel-csv-mysqldb.git 
+ * @link      https://github.com/omsw/custom-datatable-php-mysql-ajax.git
  * @version   1.0
  */
 ### Installation
